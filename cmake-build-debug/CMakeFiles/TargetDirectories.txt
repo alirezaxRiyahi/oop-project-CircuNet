@@ -1,0 +1,3 @@
+C:/Users/Asus/Desktop/oop/oop-project-CircuNet/cmake-build-debug/CMakeFiles/CircuNet.dir
+C:/Users/Asus/Desktop/oop/oop-project-CircuNet/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus/Desktop/oop/oop-project-CircuNet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
